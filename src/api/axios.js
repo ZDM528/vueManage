@@ -67,4 +67,3 @@ export {
     emitFood
 }
 
-//测试
